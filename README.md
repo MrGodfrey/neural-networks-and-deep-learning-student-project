@@ -15,7 +15,7 @@
 
 ### Slides
 
-- [多层感知机.pdf](./slides/多层感知机.pdf)：关于“多层感知机”的汇报 Slides.  @lan-an0
+- [多层感知机.pdf](./slides/多层感知机.pdf)：关于“多层感知机”的汇报 Slides.  [@lan-an0](https://github.com/lan-an0)
 
 
 ## 可以贡献的内容
