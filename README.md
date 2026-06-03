@@ -13,6 +13,16 @@
 
 这个部分用于展示仓库里当前已经收录的内容。
 
+### 学生优秀项目展示
+
+#### [LTNtorch × CNF 数学公理多标签分类 | 神经符号整合复现实验](https://github.com/Xxxx37/LTN-CNF-Axiom-Classification)
+
+> 基于 LTNtorch 复现并改进神经符号整合方法，用于 CNF 数学公理数据集的 7 谓词多标签分类任务。
+
+- 作者：@Xxxx37
+- 学期：2026 年春季学期
+- 哔哩哔哩视频：[LTNtorch × CNF 数学公理多标签分类 | 神经符号整合复现实验](https://www.bilibili.com/video/BV1ELVr6nEmp/?vd_source=2894cd2823296fe1295ebb3045c91c71)
+
 ### Slides
 
 - [多层感知机.pdf](./slides/多层感知机.pdf)：关于“多层感知机”的汇报 Slides.  [@lan-an0](https://github.com/lan-an0)
