@@ -23,6 +23,46 @@
 - 学期：2026 年春季学期
 - 哔哩哔哩视频：[LTNtorch × CNF 数学公理多标签分类 | 神经符号整合复现实验](https://www.bilibili.com/video/BV1ELVr6nEmp/?vd_source=2894cd2823296fe1295ebb3045c91c71)
 
+#### [WriteAI · 学术英语写作辅助平台](https://github.com/yue260203-5114/WriteAI)
+
+> 基于 DeepSeek AI 与 arXiv 公开 API 构建的学术英语写作辅助 Web 应用，支持学术论文写作分析、AI 润色与文献检索。
+
+- 作者：@yue260203-5114
+- 学期：2026 年春季学期
+- 哔哩哔哩视频：[WriteAI · 学术英语写作辅助平台](https://www.bilibili.com/video/BV1QW7r6UEMx/)
+
+#### [ViT³：解锁视觉领域的测试时训练复现实验](https://gitee.com/yyh0502/mid-term-neural-network)
+
+> 基于 PyTorch 复现并优化 ViT³ 视觉测试时训练模型，适配 CIFAR-10 图像分类任务，并针对 CPU 环境进行轻量化改造与训练稳定性优化。
+
+- 作者：@yyh0502
+- 学期：2026 年春季学期
+- 哔哩哔哩视频：[ViT³：解锁视觉领域的测试时训练复现实验](https://www.bilibili.com/video/BV1sAJG6tEoA/?share_source=copy_web&vd_source=fb61ca1ba49bb54a6074c29abc5ff7b1)
+
+#### [AI 速写猜谜 (AI Sketch Guesser)](https://github.com/peihuaihuaihuai/ai-sketch-game)
+
+> 基于 CNN 的手绘草图识别 Web 应用，用户在画布上作画，AI 实时识别飞机、汽车、猫、狗、房子、树等物体类别；项目已通过 Docker SDK 部署到 Hugging Face Spaces，也可运行 `app.py` 后本地访问 `http://localhost:5000`。
+
+- 作者：@peihuaihuaihuai
+- 学期：2026 年春季学期
+- 在线体验：[AI Sketch Guesser on Hugging Face Spaces](https://huggingface.co/spaces/peihuaihuaihuai/ai-sketch-game)
+- 哔哩哔哩视频：[AI 速写猜谜 (AI Sketch Guesser)](https://www.bilibili.com/video/BV1tEjS6wEbH/)
+
+#### [HelloAgents 智能旅行助手](https://github.com/Tian-ai-xxu/hello-agent-demo)
+
+> 基于 HelloAgents 框架构建的智能旅行规划助手，集成高德地图 MCP 服务与 RAG 知识库，支持多智能体协作生成个性化旅行计划。
+
+- 作者：@Tian-ai-xxu
+- 学期：2026 年春季学期
+
+#### [AI K歌声乐训练平台](https://github.com/zumingzyfq/ai-karaoke-platform)
+
+> 基于 Swift-F0 深度学习模型的智能 K 歌声乐训练平台，提供实时音高检测、参考音高曲线对比、AI 声乐点评和个性化改进建议。
+
+- 作者：@zumingzyfq
+- 学期：2026 年春季学期
+- 哔哩哔哩视频：[深度学习与神经网络实践作业——AI K歌声乐训练平台](https://www.bilibili.com/video/BV11L7b6iExZ/)
+
 ### Slides
 
 - [多层感知机.pdf](./slides/多层感知机.pdf)：关于“多层感知机”的汇报 Slides.  [@lan-an0](https://github.com/lan-an0)
